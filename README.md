@@ -25,7 +25,8 @@ my own version of user guide
 [https://blog.csdn.net/qq_41574522/article/details/134680674]
 
 
-git hub desktop的folder里已经删了的文件出现在了git hub webpage里
+## **git hub desktop的folder里已经删了的文件出现在了git hub webpage里**
+
 **检查文件变更**：
 -   打开 GitHub Desktop，确认左侧的 "Changes" 选项卡里是否显示了被删除的文件。
 -   如果你看到删除的文件在 "Changes" 中列出，表示 GitHub Desktop 侦测到了该文件被删除的更改。
