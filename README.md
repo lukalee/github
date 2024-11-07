@@ -34,3 +34,4 @@ my own version of user guide
 - **提交更改**：
 -   在 "Summary" 输入框中输入提交信息（比如 "Delete file"）。
 -   点击 "Commit to main" 或者你的分支名称，将更改提交到本地仓库。
+-   右键 amend commit：修改提交
