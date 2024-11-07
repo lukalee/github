@@ -6,7 +6,7 @@ my own version of user guide
  - git branch
  - git branch --all
 
-**删除github的文件 git clone**[[https://github.com/username/repository-name.git](https://github.com/username/repository-name.git)](https://github.com/lukalee/introduction-to-data-science.git)
+**删除github的文件 git clone**https://github.com/lukalee/introduction-to-data-science.git
 
  - cd repository-name git rm “file name” 
  - git commit -m "Delete file from repository"  
