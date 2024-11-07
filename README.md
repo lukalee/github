@@ -35,3 +35,4 @@ my own version of user guide
 -   在 "Summary" 输入框中输入提交信息（比如 "Delete file"）。
 -   点击 "Commit to main" 或者你的分支名称，将更改提交到本地仓库。
 -   右键 amend commit：修改提交
+![image](https://github.com/user-attachments/assets/97f6cfa7-b6d8-4c38-9da4-509b720c0309)
